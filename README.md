@@ -5,6 +5,8 @@ With the help of @xxdark we did a funny.
 
 Welcome to our GitHub repository where we explore the untapped potential of JDK11+'s `ConstantDynamic` feature to supercharge the performance of string encryption in Java applications. Whether you're a fellow coder curious about Java internals or a seasoned developer looking for ways to secure your Java apps more effectively, you're in the right place.
 
+![Click here to see the draft paper](https://github.com/skidfuscatordev/constant-dynamic-research/blob/main/ConstantDynamicPaper%20v3.pdf)
+
 Overview
 --------
 
